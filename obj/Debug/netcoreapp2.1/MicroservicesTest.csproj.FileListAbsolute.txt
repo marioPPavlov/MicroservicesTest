@@ -1,0 +1,11 @@
+D:\Programming\testPrograms\ConsoleTest\bin\Debug\netcoreapp2.1\MicroservicesTest.deps.json
+D:\Programming\testPrograms\ConsoleTest\bin\Debug\netcoreapp2.1\MicroservicesTest.runtimeconfig.json
+D:\Programming\testPrograms\ConsoleTest\bin\Debug\netcoreapp2.1\MicroservicesTest.runtimeconfig.dev.json
+D:\Programming\testPrograms\ConsoleTest\bin\Debug\netcoreapp2.1\MicroservicesTest.dll
+D:\Programming\testPrograms\ConsoleTest\bin\Debug\netcoreapp2.1\MicroservicesTest.pdb
+D:\Programming\testPrograms\ConsoleTest\obj\Debug\netcoreapp2.1\MicroservicesTest.csproj.CoreCompileInputs.cache
+D:\Programming\testPrograms\ConsoleTest\obj\Debug\netcoreapp2.1\MicroservicesTest.AssemblyInfoInputs.cache
+D:\Programming\testPrograms\ConsoleTest\obj\Debug\netcoreapp2.1\MicroservicesTest.AssemblyInfo.cs
+D:\Programming\testPrograms\ConsoleTest\obj\Debug\netcoreapp2.1\MicroservicesTest.dll
+D:\Programming\testPrograms\ConsoleTest\obj\Debug\netcoreapp2.1\MicroservicesTest.pdb
+D:\Programming\testPrograms\ConsoleTest\obj\Debug\netcoreapp2.1\MicroservicesTest.csprojAssemblyReference.cache
